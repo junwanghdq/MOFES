@@ -22,6 +22,7 @@
 struct fuse_operations mofes_oper = {
 // register callback functions here
 // Tesint commit pull request from JUN
+// Test 2
 };
 
 //optional state struct, for security purpose or convenient data access
